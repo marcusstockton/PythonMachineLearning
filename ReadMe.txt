@@ -2,7 +2,7 @@ Following along to
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 
 Up to Video: 
-https://www.youtube.com/watch?v=ZDu3LKv9gOI
+https://www.youtube.com/watch?v=VhHLpg7ZS4Q
 
 Load Idle from Venv:
 python -m idlelib

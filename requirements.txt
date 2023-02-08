@@ -1,5 +1,5 @@
 cffi==1.6.0
-cryptography==3.2
+cryptography==39.0.1
 cycler==0.10.0
 idna==2.1
 inflection==0.3.1

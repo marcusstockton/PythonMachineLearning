@@ -1,7 +1,7 @@
 cffi==1.6.0
 cryptography==42.0.4
 cycler==0.10.0
-idna==2.1
+idna==3.7
 inflection==0.3.1
 matplotlib==1.5.1
 more-itertools==2.2
